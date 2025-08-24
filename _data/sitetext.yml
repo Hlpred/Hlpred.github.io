@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: It's all Under Control
+    text: Harrison Perone
+    button: Learn More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Skills"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Modeling and Simulation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "Control Systems"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-satellite
+      - title: "Leadership"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-mountain
 
   portfolio:
     title: "Portfolio"
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Professional History"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -79,21 +79,21 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "AFRL"
+        url: https://www.afrl.af.mil
+        logo: assets/img/clients/AFRL.png
+      - title: "IBM"
+        url: https://www.ibm.com/us-en
+        logo: assets/img/clients/IBM.png
+      - title: "UConn Health"
+        url: https://health.uconn.edu
+        logo: assets/img/clients/UConn_Health.png
+      #- title: "Tutor.com"
+      #  url: https://www.tutor.com
+      #  logo: assets/img/clients/tutor_dot_com.png
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "Previous Internships"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -130,8 +130,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: "Reach out below or email Harrisonperone@gmail.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -147,16 +147,10 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/harrison-perone/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/Hlpred
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 
 en-001: #English (World)
   <<: *DEFAULT_EN
