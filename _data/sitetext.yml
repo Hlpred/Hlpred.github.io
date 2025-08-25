@@ -44,29 +44,39 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "Earned Associates in Software Engineering"
+        year: "Spring 2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/software.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Bachelors in Mechancial Engineering at UConn"
+        year: "Fall 2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/uconn.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "Joined Propulsive Landing (PL)"
+        year: "Fall 2022"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/uconn_rocket.PNG
+        alt:
+      - title: "Elected PL Team Lead"
+        year: "Spring 2024"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/involvmenet_fair.PNG
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Student Researcher at UConn Health"
+        year: "Summer 2024"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/CCAM.jpg
+        alt: image alt text
+      - title: "Research Intern at AFRL"
+        year: "Summer 2025"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/satellite.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Want to be next?<br>Get in touch!"
 
   about:
     title: "About Us"
@@ -88,46 +98,14 @@ en: &DEFAULT_EN
       - title: "UConn Health"
         url: https://health.uconn.edu
         logo: assets/img/clients/UConn_Health.png
-      #- title: "Tutor.com"
-      #  url: https://www.tutor.com
-      #  logo: assets/img/clients/tutor_dot_com.png
+      - title: "Tutor.com"
+        url: https://www.tutor.com
+        logo: assets/img/clients/tutor_dot_com.png
 
   team:
-    title: "Previous Internships"
+    title: "Previous Work Experience"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+    subtext: I've worked and interned at ...
 
   contact:
     title: "Contact Me"
