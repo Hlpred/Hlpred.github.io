@@ -39,24 +39,24 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Professional History"
-    text: "Lorem ipsum timeline"
+    text: "Get an overview of what I've done and where I've been"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Earned Associates in Software Engineering"
+      - title: "Associates in Software Engineering"
         year: "Spring 2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "I completed this degree while I was in high school as part of an early college program. While there, I learned the basic prinicples of programming and applied them to websites and other course projects."
         image: assets/img/timeline/software.jpg
         alt:
       - title: "Bachelors in Mechancial Engineering at UConn"
         year: "Fall 2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "I started this degree because I knew I wanted to work on aerospace systems. It has given me the opportunity to work on many technical projects inside and outside of the classroom."
         image: assets/img/timeline/uconn.jpg
         alt:
       - title: "Joined Propulsive Landing (PL)"
         year: "Fall 2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "In my first year as a member of the team, I ran Monte Carlo analysis to find acceptable weights for our LQR controller. These were used in the stable test flight pictured."
         image: assets/img/timeline/uconn_rocket.PNG
         alt:
       - title: "Elected PL Team Lead"
@@ -66,12 +66,17 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Student Researcher at UConn Health"
         year: "Summer 2024"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "As part of the Health Research Program, I worked with my PI to create a Python package ([SpringSaLadpy](https://springsaladpy.github.io)) that could analyze and visualize the results of molecular simulations that resulted in the following [publication](https://www.cell.com/biophysj/abstract/S0006-3495(24)03414-3)."
         image: assets/img/timeline/CCAM.jpg
         alt: image alt text
-      - title: "Research Intern at AFRL"
+      - title: "Research Intern at Air Force Research Lab"
         year: "Summer 2025"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Have someone review this before I push"
+        image: assets/img/timeline/satellite.jpg
+        alt:
+      - title: "Co-founding UConn Rocketry"
+        year: "Present"
+        desc: "Lorem Ipsum"
         image: assets/img/timeline/satellite.jpg
         alt:
         # you can enforce the alignment
