@@ -77,7 +77,7 @@ en: &DEFAULT_EN
       - title: "Co-founding UConn Rocketry"
         year: "Present"
         desc: "Lorem Ipsum"
-        image: assets/img/timeline/satellite.jpg
+        image: assets/img/timeline/UCONN.png
         alt:
         # you can enforce the alignment
         align: right
