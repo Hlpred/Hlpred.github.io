@@ -14,26 +14,26 @@ en: &DEFAULT_EN
     title: It's all Under Control
     text: Harrison Perone
     button: Learn More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "Skills"
-    text: "Lorem ipsum"
+    text: "Strongest technical and soft skills"
     section: services
     list:
       - title: "Modeling and Simulation"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Experience using MATLAB, Simulink, and Python to simulate and visualize real world systems. Comfortable using first principles to derive system dyanmics."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Control Systems"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Designed / Simulated PID, LQR, and MPC controllers for attitude and position control. Interned at a research lab interested in controls and wrote a research paper."
         icon: fas fa-satellite
       - title: "Leadership"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Lead a multi-disiplinary team of over a dozen engineers desiging a trust vector controlled model rocket. Coordinated several hardware and software tests."
         icon: fas fa-mountain
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Learn about some projects I have worked on"
     section: portfolio
     closebutton: "Close Project"
 
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Elected PL Team Lead"
         year: "Spring 2024"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "As team lead, I have overseen several major design decisions and lead integrated tests of our rocket's systems. This culminated in a stable test flight in Spring 2025."
         image: assets/img/timeline/involvmenet_fair.PNG
         alt: image alt text
       - title: "Student Researcher at UConn Health"
@@ -71,23 +71,15 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Research Intern at Air Force Research Lab"
         year: "Summer 2025"
-        desc: "Have someone review this before I push"
+        desc: "Recearched GNC algorihtims for multi-agnet satellite systems. Specifically, I worked on developing a task allocation algorihtim for the local catalog maintenence problem. I wrote a paper about this algorihim which is currently under review."
         image: assets/img/timeline/satellite.jpg
         alt:
-      - title: "Co-founding UConn Rocketry"
+      - title: "Co-founded UConn Rocketry Team"
         year: "Present"
-        desc: "Lorem Ipsum"
+        desc: "Combining the Propulsive Landing and Liquid Rocketry teams to create a new team that aims to create a liquid fueled vertical take-off and landing vehicle."
         image: assets/img/timeline/UCONN.png
         alt:
-        # you can enforce the alignment
-        align: right
     end: "Want to be next?<br>Get in touch!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
