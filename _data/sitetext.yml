@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Modeling and Simulation"
-        desc: "Experience using MATLAB, Simulink, and Python to simulate and visualize real world systems. Comfortable using first principles to derive system dyanmics."
+        desc: "Experience using MATLAB, Simulink, and Python to simulate and visualize real world systems. Comfortable using first principles to derive system dynamics."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Control Systems"
         desc: "Designed / Simulated PID, LQR, and MPC controllers for attitude and position control. Interned at a research lab interested in controls and wrote a research paper."
         icon: fas fa-satellite
       - title: "Leadership"
-        desc: "Lead a multi-disiplinary team of over a dozen engineers desiging a trust vector controlled model rocket. Coordinated several hardware and software tests."
+        desc: "Lead a multi-disciplinary team of over a dozen engineers designing a trust vector controlled model rocket. Coordinated several hardware and software tests."
         icon: fas fa-mountain
 
   portfolio:
@@ -46,10 +46,10 @@ en: &DEFAULT_EN
     events:
       - title: "Associates in Software Engineering"
         year: "Spring 2022"
-        desc: "I completed this degree while I was in high school as part of an early college program. While there, I learned the basic prinicples of programming and applied them to websites and other course projects."
+        desc: "I completed this degree while I was in high school as part of an early college program. While there, I learned the basic principles of programming and applied them to websites and other course projects."
         image: assets/img/timeline/software.jpg
         alt:
-      - title: "Bachelors in Mechancial Engineering at UConn"
+      - title: "Bachelors in Mechanical Engineering at UConn"
         year: "Fall 2022"
         desc: "I started this degree because I knew I wanted to work on aerospace systems. It has given me the opportunity to work on many technical projects inside and outside of the classroom."
         image: assets/img/timeline/uconn.jpg
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Research Intern at Air Force Research Lab"
         year: "Summer 2025"
-        desc: "Recearched GNC algorihtims for multi-agnet satellite systems. Specifically, I worked on developing a task allocation algorihtim for the local catalog maintenence problem. I wrote a paper about this algorihim which is currently under review."
+        desc: "Recearched GNC algorihtims for multi-agent satellite systems. Specifically, I worked on developing a task allocation algorithm for the local catalog maintenance problem. I wrote a paper about this algorithm which is currently under review."
         image: assets/img/timeline/satellite.jpg
         alt:
       - title: "Co-founded UConn Rocketry Team"
