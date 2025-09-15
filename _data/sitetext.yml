@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Designed / Simulated PID, LQR, and MPC controllers for attitude and position control. Interned at a research lab interested in controls and wrote a research paper."
         icon: fas fa-satellite
       - title: "Leadership"
-        desc: "Lead a multi-disciplinary team of over a dozen engineers designing a trust vector controlled model rocket. Coordinated several hardware and software tests."
+        desc: "Led a multi-disciplinary team of over a dozen engineers designing a trust vector controlled model rocket. Coordinated several hardware and software tests."
         icon: fas fa-mountain
 
   portfolio:
