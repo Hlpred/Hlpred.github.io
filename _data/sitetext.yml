@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Research Intern at Air Force Research Lab"
         year: "Summer 2025"
-        desc: "Recearched GNC algorihtims for multi-agent satellite systems. Specifically, I worked on developing a task allocation algorithm for the local catalog maintenance problem. I wrote a paper about this algorithm which is currently under review."
+        desc: "Researched GNC algorihtims for multi-agent satellite systems. Specifically, I worked on developing a task allocation algorithm for the local catalog maintenance problem. I wrote a paper about this algorithm which is currently under review."
         image: assets/img/timeline/satellite.jpg
         alt:
       - title: "Co-founded UConn Rocketry Team"
